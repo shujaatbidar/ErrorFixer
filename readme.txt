@@ -1,6 +1,8 @@
-ErrorFixer Our main idea is to create an autocorrect system that'll do three things.
+ErrorFixer
 
-Autocomplete Will suggest a full word based upon a word snippet from the user. As the user types the system will take into account things like:
+Our main idea is to create an autocorrect system that'll do three things.
+
+ErrorFixer Will suggest a full word based upon a word snippet from the user. As the user types the system will take into account things like:
 Alphabetical Order
 As soon as the user has input "a" for example, the pool of suggestions will be comprised solely of words that start with "a". This would be the same case with "al" trimming the pool down to words that only start with "al".
 Word Length
